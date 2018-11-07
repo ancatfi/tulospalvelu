@@ -15,7 +15,7 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define VERSIOKDI L"5.21"
-#define BUILD L"5.21.002/2015-07-18"
+#define BUILD L"5.21.003/2018-11-07"
 
 #ifdef KEHITYSLISTA
 
@@ -28,6 +28,7 @@ Ryhmän (perheen) ilmoittautuminen ja tuloksen kirjaus yhdellä Emit-kortilla ku
 
 Muutoksia:
 
+2018-11-07:  Korjattu emit-koodien yli 176 piikkikuviot.
 2015-07-18:  UnitIlm2, Valitse numerokenttä kokonaan, kun arvo on 0.
 2015-07-14:  UnitTuloskaava: Estetään sisällöttömän kaavan ottaminen käyttöön
 2015-07-14:  Käyttöön XE8 ja versio 5.21

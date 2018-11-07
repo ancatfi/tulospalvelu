@@ -257,7 +257,7 @@
         <VerInfo_MajorVer>5</VerInfo_MajorVer>
         <FinalOutputDir>..\..\..\TPexe\Juk\V521</FinalOutputDir>
         <VerInfo_MinorVer>21</VerInfo_MinorVer>
-        <VerInfo_Keys>CompanyName=Pekka Pirilä;FileDescription=;FileVersion=5.21.0.1;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProductName=ViestiWin;ProductVersion=5.21;Comments=</VerInfo_Keys>
+        <VerInfo_Keys>CompanyName=Pekka Pirilä;FileDescription=;FileVersion=5.21.0.3;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProductName=ViestiWin;ProductVersion=5.21;Comments=</VerInfo_Keys>
         <VerInfo_Locale>1033</VerInfo_Locale>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2_Win64)'!=''">
